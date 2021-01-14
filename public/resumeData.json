@@ -1,0 +1,134 @@
+{
+  "main": {
+    "name": "Robert NGABO MUGISHA",
+    "occupation": "Software Developer",
+    "description": "Full Stack Developer by Day, Founder && Freelancer by Night. #CodeSmasher",
+    "image": "robert.jpg",
+    "bio": "I’m a software developer, I have been working in company named High Hill Software for two years. I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as I continue to learn new languages and development techniques that are important to me and the success of the organization.  ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "ngabo.mugisha.bro@gmail.com",
+    "phone": "+250 786 248 680",
+    "address": {
+      "street": "",
+      "city": "Kigali",
+      "state": "KGL",
+      "zip": ""
+    },
+    "website": "http://www.nmrobert.com",
+    "resumedownload": "http://nmrobert.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ngabo-mugisha-robert-877a72122/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/kingrobert250/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/ngabomugisha",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "University of Rwanda",
+        "degree": "Bachelor in Computer Science",
+        "graduated": "Sept 2019",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "TIETO",
+        "title": "Software engineer",
+        "years": "May 2019 - December 2020",
+        "description": "Subcontructor of TIETO."
+      },
+      {
+        "company": "High Hill Software ltd",
+        "title": "Software Engineer",
+        "years": "February 2019 - December 2020",
+        "description": "Provided industrial solution systems."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack GMAIL Clone",
+        "category": "GMAIL Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://pedantic-poincare-b9095f.netlify.app"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
